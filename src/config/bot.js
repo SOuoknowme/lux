@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "ابي دبو", // required by Discord API, not shown in the client
+        name: "here", // required by Discord API, not shown in the client
         state: "تبي بوت ؟ تواصل مع na9oh  - Discord Bot Experiment  ",     // this is what people actually see
         type: 4,               // Custom
       },
